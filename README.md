@@ -2,7 +2,7 @@
 
 This daemon provides a way to run shell commands in python without forking the python process.
 This is useful when your main python process is memory-intensive.
-** The daemon reads shell commands from a file and runs them. There is no sanitization or safety checking. **
+**The daemon reads shell commands from a file and runs them. There is no sanitization or safety checking.**
 
 # How it works
 
